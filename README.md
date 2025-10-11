@@ -15,4 +15,6 @@ My love for Open Source has inspired my business model, I plan to create many Op
 Every artist deserves to make their tool a work of art. People like Les Paul, Terry Davis, and Van Halen understood this as well. Those are the first few that come to mind but there are many more examples. There is a reason why every good luthier takes great pride in what they do.
 Be opinionated, it defines who you are and how you create. If you cannot find your needs, then make them, obsess over the necessary tools for the job. This is how invention comes to fruition.
 
+## performance & metrics for nerds
 ![ALH477's Stats](https://github-readme-stats.vercel.app/api?username=ALH477&theme=dark&show_icons=true&hide_border=false&count_private=true)![ALH477's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALH477&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![ALH477's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALH477&theme=dark&hide_border=true)
