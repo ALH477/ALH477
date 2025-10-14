@@ -18,22 +18,4 @@ Be opinionated, it defines who you are and how you create. If you cannot find yo
 ## performance & metrics for nerds
 ![ALH477's Stats](https://github-readme-stats.vercel.app/api?username=ALH477&theme=dark&show_icons=true&hide_border=false&count_private=true)![ALH477's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALH477&theme=dark&show_icons=true&hide_border=false&layout=compact)
 ![ALH477's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALH477&theme=dark&hide_border=true)
-```
-const asciiArt = `
-                       *
-                      * *
-                     *   *
-                    * * * *
-                   *       *
-                  * *     * *
-                 *   *   *   *
-                * * * * * * * *
-               *               *
-              * *             * *
-             *   *           *   *
-            * * * *         * * * *
-           *       *       *       *
-          * *     * *     * *     * *
-         *   *   *   *   *   *   *   *
-        * * * * * * * * * * * * * * * *`;
-```
+
