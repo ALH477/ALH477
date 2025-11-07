@@ -20,5 +20,6 @@ Be opinionated, it defines who you are and how you create. If you cannot find yo
 ![ALH477's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALH477&theme=dark&hide_border=true) 
 ## Projects I endorse
 ![](https://github.com/ALH477/ArchibaldOS/blob/main/modules/assets/wallpaper.jpg?raw=true)
+![](https://github.com/ALH477/DeMoD-StreamDB/raw/main/StreamDB-logo.svg)
 ![](https://github.com/ALH477/HydraMesh/raw/main/logo.png)
 ![](https://repository-images.githubusercontent.com/1072001868/8b510033-8549-4c89-995d-d40f79680900)
