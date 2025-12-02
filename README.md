@@ -15,6 +15,37 @@ My love for Open Source has inspired my business model, I plan to create many op
 Every artist deserves to make their tool a work of art. People like Les Paul, Terry Davis, and Van Halen understood this as well. Those are the first few that come to mind but there are many more examples. There is a reason why every good luthier takes great pride in what they do.
 Be opinionated, it defines who you are and how you create. If you cannot find your needs, then make them, obsess over the necessary tools for the job. This is how invention comes to fruition.
 
+```mermaid
+graph TD
+    A["DeMoD LLC"] -->|Founder & Core Ecosystem| B["DeMoD Secure Protocol (DSP, Patented 63/825,459)"]
+    A -->|Business Model: Open-Source Solutions| C["ArchibaldOS (NixOS-based RT Audio OS)"]
+    A -->|USAF SBIR Grant Submission| B
+    B -->|Evolved Into| D["HydraMesh (P2P Framework, Multi-Lang SDKs)"]
+    C -->|Foundation For| E["DeMoDulation (DSP/SDR Blueprint, Nix Flakes)"]
+    E -->|Integrates| F["StreamDB (Embedded KV DB for Audio Assets)"]
+    E -->|Uses| G["EchoForge-DSP (FOSH PCB: TI DSP, ADC/DAC)"]
+    D -->|Networking For| E
+    F -->|Persistence In| D
+    F -->|Used In| H["DeMoD-RISC-Audio-Kernel (Rust Bare-Metal on RISC-V)"]
+    G -->|Hardware For| I["Guitar Platforms (e.g., Big Bertha Bass, Hempcrete Body)"]
+    I -->|Onboard DSP| G
+    I -->|Sierpinski Antenna| J["BT/Wi-Fi Optimization (90% Efficiency)"]
+    E -->|Hardware Targets| K["e-Waste PCs / Framework 13 / RPi 5"]
+    E -->|Apps: SDR, Audio FX, Surveillance| L["Low-Latency Benchmarks (sub-1ms RTL at 192kHz)"]
+    A -->|Projects| M["PetaByte Madness (C++ Game on idTech 4, Donates to AMBER Alert)"]
+    M -->|Integrates| B
+    M -->|Audio| G
+    A -->|Other Builds| N["Arcade Machine / Custom Bass"]
+    N -->|Hardware Skills| I
+    subgraph "Interconnections"
+        B --- D --- F --- E --- C
+        G --- E --- H
+    end
+    style A fill:#ddd,stroke:#333,stroke-width:2px
+    style E fill:#ddd,stroke:#333
+    style L fill:#ddd,stroke:#333
+```
+
 ## performance & metrics for nerds
 ![ALH477's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALH477&theme=dark&show_icons=true&hide_border=false&layout=compact)
 ![ALH477's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALH477&theme=dark&hide_border=true) 
