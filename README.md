@@ -37,13 +37,47 @@ graph TD
     M -->|Audio| G
     A -->|Other Builds| N["Arcade Machine / Custom Bass"]
     N -->|Hardware Skills| I
+
+    %% === Interconnections (subtle) ===
     subgraph "Interconnections"
         B --- D --- F --- E --- C
         G --- E --- H
     end
-    style A fill:#ddd,stroke:#333,stroke-width:2px
-    style E fill:#ddd,stroke:#333
-    style L fill:#ddd,stroke:#333
+
+    %% === Styling by Domain ===
+
+    %% Company & Core (Blue)
+    classDef company fill:#e3f2fd,stroke:#1a5fb4,stroke-width:2px,color:#000,font-weight:bold
+    class A company
+
+    %% OS & Foundation (Teal)
+    classDef os fill:#e0f2f1,stroke:#0a6f6f,stroke-width:2px,color:#000
+    class C os
+
+    %% Networking / P2P (Purple)
+    classDef network fill:#f3e5f5,stroke:#6b4c9a,stroke-width:2px,color:#000
+    class D,F network
+
+    %% DSP / Audio Core (Green)
+    classDef dsp fill:#e8f5e8,stroke:#2e7d32,stroke-width:2px,color:#000
+    class B,E dsp
+
+    %% Hardware / Embedded (Orange)
+    classDef hardware fill:#fff3e0,stroke:#f57c00,stroke-width:2px,color:#000
+    class G,H,I,J,K hardware
+
+    %% Applications & Benchmarks (Pink)
+    classDef apps fill:#fce4ec,stroke:#c2185b,stroke-width:2px,color:#000
+    class L apps
+
+    %% Projects & Builds (Gray)
+    classDef projects fill:#eceff1,stroke:#546e7a,stroke-width:2px,color:#000
+    class M,N projects
+
+    %% === Optional: Highlight Key Nodes ===
+    style A fill:#bbdefb,stroke:#1a5fb4,stroke-width:3px
+    style E fill:#c8e6c9,stroke:#2e7d32,stroke-width:3px
+    style L fill:#f8bbd0,stroke:#c2185b,stroke-width:3px
 ```
 
 ## performance & metrics for nerds
