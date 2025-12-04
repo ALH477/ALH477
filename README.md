@@ -79,10 +79,6 @@ graph TD
     style E fill:#c8e6c9,stroke:#2e7d32,stroke-width:3px
     style L fill:#f8bbd0,stroke:#c2185b,stroke-width:3px
 ```
-
-## performance & metrics for nerds
-![ALH477's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALH477&theme=dark&show_icons=true&hide_border=false&layout=compact)
-![ALH477's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALH477&theme=dark&hide_border=true) 
 ## Projects I endorse
 ![](https://github.com/ALH477/ArchibaldOS/blob/main/modules/assets/wallpaper.jpg?raw=true)
 ![](https://github.com/ALH477/DeMoD-StreamDB/raw/main/StreamDB-logo.svg)
