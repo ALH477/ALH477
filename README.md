@@ -88,3 +88,4 @@ graph TD
 ![](https://github.com/ALH477/DeMoD-StreamDB/raw/main/StreamDB-logo.svg)
 ![](https://github.com/ALH477/HydraMesh/raw/main/logo.png)
 ![](https://repository-images.githubusercontent.com/1072001868/8b510033-8549-4c89-995d-d40f79680900)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F11PNYX4)
