@@ -85,47 +85,5 @@ graph TD
 ![](https://github.com/ALH477/HydraMesh/raw/main/logo.png)
 ![](https://repository-images.githubusercontent.com/1072001868/8b510033-8549-4c89-995d-d40f79680900)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F11PNYX4)
-```
-                     ┌───────────────────────────┐
-                     │       Edge Devices        │
-                     │  (SBCs, Drones, IoT)     │
-                     └────────────┬──────────────┘
-                                  │
-                                  │ HydraMesh P2P
-                                  │ (DCF UDP / deterministic channels)
-                                  │
-                     ┌────────────▼──────────────┐
-                     │     ArchibaldOS RT OS     │
-                     │   (CachyOS RT kernel)     │
-                     │ - PREEMPT_RT fallback      │
-                     │ - Real-time scheduling     │
-                     │ - Deterministic CPU cores  │
-                     └────────────┬──────────────┘
-                                  │
-                   ┌──────────────┴───────────────┐
-                   │       StreamDB Storage       │
-                   │  (Rust or C version)         │
-                   │ - Reverse Trie / suffix idx  │
-                   │ - WAL / persistence          │
-                   │ - Async streaming            │
-                   │ - LRU caching / quick mode   │
-                   └──────────────┬───────────────┘
-                                  │
-                                  │
-                     ┌────────────▼───────────────┐
-                     │       DCF / Messaging      │
-                     │ - UDP / Reliable channels  │
-                     │ - Position / Audio / Events│
-                     │ - Network metrics (RTT)    │
-                     └────────────┬───────────────┘
-                                  │
-                                  │ Peer-to-peer deterministic sync
-                                  │
-           ┌──────────────────────▼───────────────────────┐
-           │              Global HydraMesh Network        │
-           │ - Thousands of nodes / labs / studios       │
-           │ - Deterministic state across deployments    │
-           │ - Audio / SDR / Robotics / AI / Gaming      │
-           └─────────────────────────────────────────────┘
 
-```
+![petabyte-small](https://github.com/user-attachments/assets/778dc59f-9688-475e-b339-70c76976f89c)
