@@ -6,6 +6,8 @@
 | | | || |____| | | \___  |./ /  ./ /             | |/ /  __/ |  | | (_) | |/ /  | |____| |___| \__/\
 \_| |_/\_____/\_| |_/   |_/\_/   \_/              |___/ \___\_|  |_/\___/|___/   \_____/\_____/\____/
 ```
+https://github.com/user-attachments/assets/6b9bf6c6-03f8-42ef-b61a-d770ce2f31e3
+
 Being opinionated about your tools, the entities that exist solely to provide a means to an end. Is not a lost cause for many reasons, they are the conduit of your creativity. There are many artisans in history and modern times who make their own tools. The best example of this is the Blacksmith.
 
 They build each tool they need for their unique desires. Specifically forged for their art, which may even be the tool itself. My point is that each variable in your cocktail of creation will define the result of a fine imprint that creates its character and soul. So continue to be an opinionated ass, its your obligation as a creator. Make your own tools if needed, but there is no shame in using what others have built.
